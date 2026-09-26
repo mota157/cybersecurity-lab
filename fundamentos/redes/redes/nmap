@@ -1,0 +1,20 @@
+# 🔎 Nmap
+
+Nmap significa Network Mapper.
+
+É uma ferramenta utilizada para descoberta e análise de dispositivos e serviços em redes.
+
+## O que o Nmap pode identificar?
+
+Dependendo da configuração do teste, o Nmap pode ajudar a identificar:
+
+- Hosts acessíveis
+- Portas abertas
+- Serviços de rede
+- Versões de serviços
+- Algumas informações sobre o sistema operacional
+
+## Exemplo
+
+```bash
+nmap 192.168.56.101
